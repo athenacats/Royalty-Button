@@ -7,7 +7,7 @@ export default function handler(req, res) {
             {
               type: "button",
               id: "start_quote_details",
-              label: "Start Quote Details",
+              label: "Let me fill in the easy online form!",
               style: "primary",
               action: {
                 type: "url",
